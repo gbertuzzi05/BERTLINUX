@@ -22,6 +22,11 @@ what is not working:audio, everithing else and there is no battery management fo
 
 
 
+system image coming soon
+
+
+
+
 Some peripherals may be detected by the system but may require one or more drivers to be used.
 
 To login use "root" for username and password.
