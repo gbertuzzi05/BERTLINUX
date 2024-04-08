@@ -17,14 +17,10 @@ what partially works:
 the screen only works if the kernel is booted up with "nomodeset" option and uses a generic graphic driver with default resolution of 1024x768
 internet works only with ethernet port (labelled eth0 according to "ifconfig" command)
 
-what is not working:
--audio
--everithing that is not undiscovered
--no battery management for laptops
+what is not working:audio, everithing that is not undiscovered and there is no battery management for laptops
 
 
 Some peripherals may be detected by the system but may require one or more drivers to be used
-to login:
-username:root
-password:root
-to boot desktop issue the command "startx"
+to login use "root" for username and password.
+
+To boot desktop issue the command "startx"
