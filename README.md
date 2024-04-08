@@ -20,7 +20,8 @@ internet works only with ethernet port (labelled eth0 according to "ifconfig" co
 what is not working:audio, everithing that is not undiscovered and there is no battery management for laptops
 
 
-Some peripherals may be detected by the system but may require one or more drivers to be used
-to login use "root" for username and password.
+Some peripherals may be detected by the system but may require one or more drivers to be used.
+
+To login use "root" for username and password.
 
 To boot desktop issue the command "startx"
