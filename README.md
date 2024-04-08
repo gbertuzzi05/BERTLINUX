@@ -1,7 +1,7 @@
 # BERTLINUX
 A lightweight linux distribution built with the "Linux From Scratch" book (version 12.0)
 
-
+WARINING: i'm just a student who started this project for school reasons i'm not a developer.
 why i have done it?
 
 I created BERTLINUX with the intention of creating an ultra-lightweight operating system that can be used with any computer (with an x86_64 cpu)
@@ -18,6 +18,8 @@ the screen only works if the kernel is booted up with "nomodeset" option and use
 internet works only with ethernet port (labelled eth0 according to "ifconfig" command)
 
 what is not working:audio, everithing else and there is no battery management for laptops
+
+
 
 
 Some peripherals may be detected by the system but may require one or more drivers to be used.
