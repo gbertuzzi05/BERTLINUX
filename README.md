@@ -40,6 +40,8 @@ PASSWORD:root
 
 To boot desktop issue the command "startx"
 
+for the .vdi file are required 32GB of space
+
 
 # HOW TO USE
 -download and extract the .vdi from releases page
