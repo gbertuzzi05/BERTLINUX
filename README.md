@@ -1,7 +1,16 @@
 # BERTLINUX
+
+
 A lightweight linux distribution built with the "Linux From Scratch" book (version 12.0)
 
+![BERTLINUX](https://github.com/gbertuzzi05/BERTLINUX/assets/106744847/12d48007-3e45-4c46-83ba-041beca3e2bf)
+
+
+
+
+
 WARINING: i'm just a student who started this project for school reasons i'm not a developer.
+
 
 
 
