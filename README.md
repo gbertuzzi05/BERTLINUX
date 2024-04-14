@@ -2,9 +2,11 @@
 A lightweight linux distribution built with the "Linux From Scratch" book (version 12.0)
 
 WARINING: i'm just a student who started this project for school reasons i'm not a developer.
-why i have done it?
 
-I created BERTLINUX with the intention of creating an ultra-lightweight operating system that can be used with any computer (with an x86_64 cpu)
+
+
+
+I started BERTLINUX with the intention to create an ultra-lightweight operating system that can be used with any computer (with an x86_64 cpu)
 I compiled the kernel with general settings and added support for a few drivers
 I installed LXDE (Lightweight X11 Desktop Environment) as Desktop Environment and some tools for basic use as a text editors (Bluefish for the desktop, nano and vim for the CLI), a WEB browser (palemoon), process manager (top and htop) and programming tools (gcc, g++ and python3).
 
@@ -21,10 +23,23 @@ what is not working:audio, everithing else and there is no battery management fo
 
 Some peripherals may be detected by the system but may require one or more drivers to be used.
 
-To login use "root" for username and password.
+To login:
+
+USER:root
+
+PASSWORD:root
 
 To boot desktop issue the command "startx"
 
 
+# HOW TO USE
+-download and extract the .vdi from releases page
 
-system image coming soon
+
+-create a VM vith virtualbox (type: linux/other-linux(64-bit))
+
+
+-add the .vdi to the virtual machine
+
+
+-boot up and enjoy
