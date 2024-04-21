@@ -21,18 +21,26 @@ I installed LXDE (Lightweight X11 Desktop Environment) as Desktop Environment an
 
 the kernel version is 6.4.12 and has been compiled with the default configuration
 
-what works:
-the cli and its commands
+# WHAT WORKS
 
-what partially works:
-the screen only works if the kernel is booted up with "nomodeset" option and uses a generic graphic driver with default resolution of 1024x768
+
+
+the cli and its commands, the desktop environment LXDE (uses framebuffer driver to be compatible with most of the screens) 
+
+# WHAT PARTIALLY WORKS
+
+
+
 internet works only with ethernet port (labelled eth0 according to "ifconfig" command)
-
-what is not working:audio, everithing else and there is no battery management for laptops
-
 Some peripherals may be detected by the system but may require one or more drivers to be used.
+# WHAT IS NOT WORKING
 
-To login:
+
+audio
+Everything else
+
+
+# TO LOGIN:
 
 USER:root
 
@@ -40,11 +48,10 @@ PASSWORD:root
 
 To boot desktop issue the command "startx"
 
-for the .vdi file are required 32GB of space
 
 
 # HOW TO USE
--download and extract the .vdi from releases page
+-download and extract the .vdi from releases page (are required 32GB of space)
 
 
 -create a VM vith virtualbox (type: linux/other-linux(64-bit))
