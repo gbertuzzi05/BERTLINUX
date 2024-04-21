@@ -36,8 +36,7 @@ Some peripherals may be detected by the system but may require one or more drive
 # WHAT IS NOT WORKING
 
 
-audio
-Everything else
+audio, Everything else
 
 
 # TO LOGIN:
