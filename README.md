@@ -60,3 +60,5 @@ To boot desktop issue the command "startx"
 
 
 -boot up and enjoy
+
+-to edit screen resolution use xrandr from cli or lxrandr from gui
