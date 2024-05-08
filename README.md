@@ -30,8 +30,7 @@ the cli and its commands, the desktop environment LXDE (uses framebuffer driver 
 # WHAT PARTIALLY WORKS
 
 
-
-internet works only with ethernet port (labelled eth0 according to "ifconfig" command)
+internet works only with ethernet port (labelled eth0 according to "ifconfig" command) wpa_supplicant is installed but need Wi-Fi driver
 Some peripherals may be detected by the system but may require one or more drivers to be used.
 # WHAT IS NOT WORKING
 
