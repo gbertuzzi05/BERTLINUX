@@ -25,7 +25,7 @@ the kernel version is 6.4.12 and has been compiled with the default configuratio
 
 
 
-the cli and its commands, the desktop environment LXDE (uses framebuffer driver to be compatible with most of the screens) 
+the cli and its commands, the desktop environment (LXDE) 
 
 # WHAT PARTIALLY WORKS
 
@@ -44,20 +44,22 @@ USER:root
 
 PASSWORD:root
 
-To boot desktop issue the command "startx"
 
 
 
-# HOW TO USE
--download and extract the .vdi from releases page (are required 32GB of space)
+
+# HOW TO USE (VM with VirtualBox)
+-Download and extract the .vdi from releases page (are required 32GB of space)
 
 
--create a VM vith virtualbox (type: linux/other-linux(64-bit))
+-Create a VM vith virtualbox [type: linux/other-linux(64-bit) , RAM minimum 512 MB and cpu from 1 to max]
 
 
--add the .vdi to the virtual machine
+-Add the .vdi to the virtual machine
 
 
--boot up and enjoy
+-Boot up and enjoy
 
--to edit screen resolution use xrandr from cli or lxrandr from gui
+-To boot desktop issue the command "startx"
+
+-To edit screen resolution use xrandr from cli or lxrandr from gui
