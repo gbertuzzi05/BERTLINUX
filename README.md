@@ -48,8 +48,12 @@ PASSWORD:root
 
 
 
-# HOW TO USE (VM with VirtualBox)
--Download and extract the .vdi from releases page (are required 32GB of space)
+# # HOW TO USE 
+
+
+
+# VM with VirtualBox
+-Download and extract the .vdi from releases page (32GB of space are required)
 
 
 -Create a VM vith virtualbox [type: linux/other-linux(64-bit) , RAM minimum 512 MB and cpu from 1 to max]
@@ -60,6 +64,21 @@ PASSWORD:root
 
 -Boot up and enjoy
 
+
+# Raw image to hard drive
+
+-connect your hard drive to the pc using a usb adapter
+
+-download the .img file from the releases page (32GB of space are required)
+
+-flash the .img file to hard drive using a flashing tool like balenaEtcher (https://etcher.balena.io/)
+
+-Boot up and enjoy
+
+#BOOT THE DESKTOP
+
 -To boot desktop issue the command "startx"
 
 -To edit screen resolution use xrandr from cli or lxrandr from gui
+
+
