@@ -48,7 +48,7 @@ PASSWORD:root
 
 
 
-# # HOW TO USE 
+# HOW TO USE 
 
 
 
@@ -75,7 +75,9 @@ PASSWORD:root
 
 -Boot up and enjoy
 
-#BOOT THE DESKTOP
+
+# BOOT THE DESKTOP
+
 
 -To boot desktop issue the command "startx"
 
