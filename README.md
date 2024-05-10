@@ -82,7 +82,11 @@ PASSWORD:root
 -inside you will find the BERTLINUX folder with three subdirectories: boot, changes and modules
 -copy the BERTLINUX folder into the root (/) of your usb
 -now follow the steps for your OS 
+
+
 --on WINDOWS run cmd as admin and run this command: "cd /d [letter-of-your-drive]:BERTLINUX/boot" and press enter, then run bootinst.bat (WARNING:this is not equal to "run as administrator from right click menu you need to execute in terminal or will not work
+
+
 
 --on LINUX open the terminal as root or as a user in the sudo group and run this command: "cd /path/to/usb/BERTLINUX/boot" and press enter, then run "./bootinst.sh" 
 -when the script will end, an "installation finished" message will be prompted and you can close the terminal
