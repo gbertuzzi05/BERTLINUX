@@ -97,7 +97,7 @@ PASSWORD:root
 # BOOT THE DESKTOP
 
 
-  To boot desktop withVM METHOR OR RAW IMAGE METHOD issue the command "startx" in the bash, with the LIVE USB method use the liveusb.sh script in the /root folder
+  To boot desktop with VM METHOR OR RAW IMAGE METHOD issue the command "startx" in the bash, with the LIVE USB method use the liveusb.sh script in the /root folder
 
 
 
