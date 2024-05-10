@@ -76,7 +76,7 @@ PASSWORD:root
 -Boot up and enjoy
 
 
-#live usb
+# LIVE USB
 
 -download and extract the .tar.xz file (with windows you can use 7-zip, with linux you can use "tar -xf" command
 -inside you will find the BERTLINUX folder with three subdirectories: boot, changes and modules
