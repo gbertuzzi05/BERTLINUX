@@ -76,10 +76,23 @@ PASSWORD:root
 -Boot up and enjoy
 
 
+#live usb
+
+-download and extract the .tar.xz file (with windows you can use 7-zip, with linux you can use "tar -xf" command
+-inside you will find the BERTLINUX folder with three subdirectories: boot, changes and modules
+-copy the BERTLINUX folder into the root (/) of your usb
+-now follow the steps for your OS 
+--on WINDOWS run cmd as admin and run this command: "cd /d [letter-of-your-drive]:BERTLINUX/boot" and press enter, then run bootinst.bat (WARNING:this is not equal to "run as administrator from right click menu you need to execute in terminal or will not work
+
+--on LINUX open the terminal as root or as a user in the sudo group and run this command: "cd /path/to/usb/BERTLINUX/boot" and press enter, then run "./bootinst.sh" 
+-when the script will end, an "installation finished" message will be prompted and you can close the terminal
+
 # BOOT THE DESKTOP
 
 
--To boot desktop issue the command "startx"
+  To boot desktop withVM METHOR OR RAW IMAGE METHOD issue the command "startx" in the bash, with the LIVE USB method use the liveusb.sh script in the /root folder
+
+
 
 -To edit screen resolution use xrandr from cli or lxrandr from gui
 
