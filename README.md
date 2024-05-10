@@ -84,7 +84,7 @@ PASSWORD:root
 -now follow the steps for your OS 
 
 
---on WINDOWS run cmd as admin and run this command: "cd /d [letter-of-your-drive]:BERTLINUX/boot" and press enter, then run bootinst.bat (WARNING:this is not equal to "run as administrator from right click menu you need to execute in terminal or will not work
+--on WINDOWS run cmd as admin and run this command: "cd /d [letter-of-your-drive]:BERTLINUX/boot" and press enter, then run bootinst.bat (WARNING:this is not equal to "run as administrator" from right click menu, you need to execute in terminal or will not work
 
 
 
