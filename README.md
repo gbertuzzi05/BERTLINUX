@@ -81,8 +81,15 @@ Before proceeding, set up your computer to boot up with BIOS mode (also known as
 # LIVE USB
 
 -download and extract the .tar.xz file (with windows you can use 7-zip, with linux you can use "tar -xf" command
+
+
 -inside you will find the BERTLINUX folder with three subdirectories: boot, changes and modules
+
+
 -copy the BERTLINUX folder into the root (/) of your usb
+
+
+
 -now follow the steps for your OS 
 
 
