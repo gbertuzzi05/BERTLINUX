@@ -30,7 +30,9 @@ the cli and its commands, the desktop environment (LXDE)
 # WHAT PARTIALLY WORKS
 
 
-internet works only with ethernet port (labelled eth0 according to "ifconfig" command) wpa_supplicant is installed but need Wi-Fi driver
+internet works only with ethernet port (labelled eth0 according to "ifconfig" command), wpa_supplicant is installed but not working because there are no WiFi drivers included.
+
+
 Some peripherals may be detected by the system but may require one or more drivers to be used.
 # WHAT IS NOT WORKING
 
