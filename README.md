@@ -51,7 +51,7 @@ PASSWORD:root
 
 
 # HOW TO USE 
-Before proceeding, set up your computer to boot up with BIOS mode (also known as legacy mode) because UEFI IS NOT SUPPORTED FOR NOW
+Before proceeding, set up your computer to boot up with BIOS mode (also known as legacy mode) because UEFI IS NOT SUPPORTED FOR NOW (skip this step if you are going to use the "VM with VirtualBox" method).
 
 
 # VM with VirtualBox
