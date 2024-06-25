@@ -19,7 +19,6 @@ I started BERTLINUX with the intention to create an ultra-lightweight operating 
 I compiled the kernel with general settings and added support for a few drivers
 I installed LXDE (Lightweight X11 Desktop Environment) as Desktop Environment and some tools for basic use as a text editors (Bluefish for the desktop, nano and vim for the CLI), a WEB browser (palemoon), process manager (top and htop) and programming tools (gcc, g++ and python3).
 
-the kernel version is 6.4.12 and has been compiled with the default configuration
 
 # WHAT WORKS
 
